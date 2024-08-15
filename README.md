@@ -1,0 +1,1 @@
+This is a simple web-based application that generates random passwords. The generator provides users with the ability to create strong, secure passwords of customizable lengths, including options for using uppercase letters, lowercase letters, numbers, and special characters. It's a useful tool for ensuring that your online accounts are protected by unique and complex passwords.
